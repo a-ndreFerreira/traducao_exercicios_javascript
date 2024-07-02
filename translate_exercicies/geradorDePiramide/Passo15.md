@@ -1,3 +1,7 @@
 # Passo 15
 
-Com o tipo de dados [number] você pode realizar operações matemáticas, como adição. Tente imprimir [count + 1] no console.
+Use let para declarar uma variável count. Atribua a ele o número 8. Ao usar um valor numérico, você não usa aspas. Por exemplo:
+
+## Exemplo de código
+
+let dinheiro = 100;

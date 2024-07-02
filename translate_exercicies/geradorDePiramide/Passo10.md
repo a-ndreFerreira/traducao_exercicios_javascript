@@ -1,15 +1,12 @@
 # Passo 10
 
-Você também pode atribuir o valor de uma variável a outra variável. Por exemplo:
+O valor padrão de uma variável não inicializada é undefined. Este é um tipo de dado especial que representa um valor que ainda não possui definição.
 
-# Código de exemplo
+Você ainda pode atribuir um valor a uma variável não inicializada. Aqui está um exemplo:
 
-let primeiro = "Um";
-let segundo = "Dois";
-segundo = primeiro;
+## Exemplo de código
 
-A segunda variável agora teria o valor “Um”.
+let naoInicializado;
+naoInicializado = "atribuído";
 
-Para ver isso em ação, altere sua atribuição de [secondCharacter] de ["Teste"] para sua variável de [character].
-
-Em seguida, abra o console para ver o que é registrado.
+Atribua a string "Test" à sua variável secondCharacter abaixo da sua declaração. Abra o console para ver como seu log foi alterado.

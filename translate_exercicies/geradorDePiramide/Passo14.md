@@ -1,7 +1,5 @@
 # Passo 14
 
-Use [let] para declarar uma variável [count]. Atribua a ele o número [8]. Ao usar um valor numérico, você não usa aspas. Por exemplo:
+Agora que você revisou a declaração e a inicialização, remova o código que escreveu para sua revisão.
 
-## Código de exemplo
-
-let dinheiro = 100;
+Não remova sua variável character.

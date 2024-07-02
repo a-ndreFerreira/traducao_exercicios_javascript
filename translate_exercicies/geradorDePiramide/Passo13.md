@@ -1,5 +1,7 @@
 # Passo 13
 
-Agora que você revisou a declaração e a inicialização, remova o código que escreveu para sua revisão.
+Antes de prosseguir, você deve reservar um momento para revisar os conceitos que aprendeu.
 
-Não remova sua variável [character].
+Use a palavra-chave let para declarar uma variável job e uma variável age. Inicialize job com a string "professor", mas não inicialize age com nenhum valor.
+
+Registre ambas as suas variáveis ​​no console para ver os resultados.

@@ -1,3 +1,3 @@
 # Passo 16
 
-Você também pode realizar subtração ([-]), multiplicação ([*]) e divisão ([/]). Sinta-se à vontade para experimentar os operadores e números em seu [console.log]. Quando estiver pronto para prosseguir, remova o [console.log].
+Com o tipo de dados numérico, você pode realizar operações matemáticas, como adição. Tente imprimir count + 1 no console.
