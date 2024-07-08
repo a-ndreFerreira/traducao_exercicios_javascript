@@ -10,9 +10,9 @@ test(7);
 Olhando para o padrão novamente:
 
 ## Exemplo de código
-··#··
+`··#··
 ·###·
-#####.
+#####`
 
 Atualize o valor do character a ser repetido 2 * rowNumber - 1 vezes.
 
