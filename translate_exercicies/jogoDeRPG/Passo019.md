@@ -1,0 +1,3 @@
+# Passo 019
+
+Semelhante ao seu elemento #stats, o seu elemento #monsterStats precisa de dois elementos span. Dê a eles a classe de stat e dê ao primeiro elemento o texto Monster Name: e ao segundo o texto Health: . Após o texto em cada um, adicione um elemento strong com um elemento span aninhado vazio. Dê ao primeiro elemento span interno um id de monsterName e ao segundo elemento de span interno um id de monsterHealth.
