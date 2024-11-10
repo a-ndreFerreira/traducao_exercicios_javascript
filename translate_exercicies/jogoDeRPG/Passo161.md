@@ -1,0 +1,3 @@
+# Passo 161
+
+Adicione outro objeto ao seu array de locations. Defina name como "easter egg", defina "button text" como um array com as strings "2", "8" e "Go to town square?", defina "button functions" como um array com as variáveis pickTwo, pickEight e goTown, e text como "You find a secret game. Pick a number above. Ten numbers will be randomly chosen between 0 and 10. If the number you choose matches one of the random numbers, you win!".
